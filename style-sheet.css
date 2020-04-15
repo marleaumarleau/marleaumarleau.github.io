@@ -1,0 +1,36 @@
+* {
+box-sizing: border-box;
+}
+body {
+font-family: Arial, Helvetica, sans-serif;
+background-color: #ffffff;
+max-width: 843px;
+margin: auto;
+padding: 10px;
+}
+img {
+display: block;
+padding-bottom: 200px;
+max-width: 100%;
+height: auto;
+}
+h1 {
+font-family: arial;
+color: #000000;
+text-align: left;
+}
+p {
+font-size: 12px;
+font-family: arial;
+text-align: left;
+color: #000000;
+}
+a:link, a:visited, a:hover, a:active {
+color: #FF4500;
+background-color: transparent;
+text-decoration: none;
+}
+footer {
+background-color: #ffffff;
+height: 600px;
+}
